@@ -45,9 +45,9 @@ body{
     text-align: center;
     font-size: 30px;
     text-decoration: underline;
-    background-color: #3882F6;
+    background-color: #1957ba;
     color: white;
-    padding-top: 10px;
+    padding: 10px 0px;
 }
 
 
@@ -56,13 +56,14 @@ body{
     justify-content: center;
     gap:40px;
     padding: 20px 0;
-    background-color: #3882F6;
+    background-color: #184080;
     margin-bottom: 20px;
     align-items: center;
     color: rgb(215, 244, 255);
     font-size: x-large;
     font-weight: 800;
     text-align: center;
+    
 }
 
 .player_info{
